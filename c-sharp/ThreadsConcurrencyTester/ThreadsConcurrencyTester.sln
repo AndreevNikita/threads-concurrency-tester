@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadsConcurrencyTester", "ThreadsConcurrencyTester\ThreadsConcurrencyTester.csproj", "{ADA24040-E33A-4E6C-9243-FF9810AF6170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{B206FD79-DAE5-4B9E-8E48-1B64B7C5703B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA24040-E33A-4E6C-9243-FF9810AF6170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA24040-E33A-4E6C-9243-FF9810AF6170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA24040-E33A-4E6C-9243-FF9810AF6170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA24040-E33A-4E6C-9243-FF9810AF6170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B206FD79-DAE5-4B9E-8E48-1B64B7C5703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B206FD79-DAE5-4B9E-8E48-1B64B7C5703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B206FD79-DAE5-4B9E-8E48-1B64B7C5703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B206FD79-DAE5-4B9E-8E48-1B64B7C5703B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6E6445-3EA2-4D3B-97D8-7CDACEFA61FA}
+	EndGlobalSection
+EndGlobal
